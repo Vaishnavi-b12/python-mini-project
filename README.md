@@ -20,3 +20,4 @@ Inspiration:
 The inspiration for this project stems from a fascination with the beauty of nature, particularly the intricate and mesmerizing patterns found in flowers. By translating these natural phenomena into digital art through Python Turtle graphics, I sought to celebrate the harmony and elegance of floral aesthetics.
 
 Feel free to explore the enchanting world of this Python Turtle graphics flower design and appreciate the creativity and craftsmanship behind its creation!
+<img width="584" alt="Screenshot 2024-03-14 141857" src="https://github.com/Vaishnavi-b12/python-mini-project/assets/131941299/99504461-637a-49e5-a140-56dd8f5b7a87">
